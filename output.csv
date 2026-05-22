@@ -1,0 +1,591 @@
+code,name,description,group,time_limit,memory_limit,points,types,authors,curators,testers,allowed_languages,is_public,partial,short_circuit,is_manually_managed,license,og_image,summary,banned_users,organizations,is_organization_private,enable_waveform,enable_ppa,ppa_maximum_fmax,f4pga_board,f4pga_target_fmax,openlane_pdk,openlane_ppa_score,openlane_critical_path_ns,openlane_core_area_um2,openlane_power_total,solution_content,solution_is_public,solution_authors,translation_en_name,translation_en_description,translation_zh_hant_name,translation_zh_hant_description,clarifications,language_limits,is_full_markup
+uva10008,[UVa 10008],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10008/10008_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10019,[UVa 10019],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10019/10019_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10035,[UVa 10035],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10035/10035_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10038,[UVa 10038],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10038/10038_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10041,[UVa 10041],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10041/10041_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10050,[UVa 10050],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10050/10050_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10050/10050_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10055,[UVa 10055],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10055/10055_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10056,[UVa 10056],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10056/10056_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10057,[UVa 10057],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10057/10057_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10062,[UVa 10062],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10062/10062_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10071,[UVa 10071],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10071/10071_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10093,[UVa 10093],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10093/10093_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10101,[UVa 10101],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10101/10101_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10170,[UVa 10170],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10170/10170_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10189,[UVa 10189],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10189/10189_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10189/10189_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10190,[UVa 10190],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10190/10190_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10193,[UVa 10193],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10193/10193_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10193/10193_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10221,[UVa 10221],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10221/10221_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10222,[UVa 10222],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10222/10222_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10226,[UVa 10226],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10226/10226_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10226/10226_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10235,[UVa 10235],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10235/10235_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10242,[UVa 10242],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10242/10242_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10252,[UVa 10252],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10252/10252_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10268,[UVa 10268],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10268/10268_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10409,[UVa 10409],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10409/10409_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10409/10409_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10415,[UVa 10415],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10415/10415_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10415/10415_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10420,[UVa 10420],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10420/10420_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10642,[UVa 10642],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10642/10642_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10642/10642_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10783,[UVa 10783],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10783/10783_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10812,[UVa 10812],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10812/10812_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10908,[UVa 10908],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10908/10908_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10908/10908_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10922,[UVa 10922],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10922/10922_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10929,[UVa 10929],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10929/10929_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva10931,[UVa 10931],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/10931/10931_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva11005,[UVa 11005],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11005/11005_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11005/11005_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva11063,[UVa 11063],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11063/11063_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva11150,[UVa 11150],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11150/11150_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11150/11150_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva11321,[UVa 11321],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11321/11321_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11321/11321_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva11332,[UVa 11332],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11332/11332_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva11349,[UVa 11349],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11349/11349_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva11417,[UVa 11417],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11417/11417_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva11461,[UVa 11461],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/11461/11461_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva12019,[UVa 12019],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/12019/12019_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/12019/12019_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva299,[UVa 299],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/299/299_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva490,[UVa 490],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/490/490_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva727,[UVa 727],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/727/727_p1.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+uva948,[UVa 948],"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/948/948_p1.png)
+
+![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/948/948_p2.png)
+
+
+### Sample Input
+```text
+
+```
+
+### Sample Output
+```text
+
+```",NUK,3,262144,1,CPP,"Feng,A1115514",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
