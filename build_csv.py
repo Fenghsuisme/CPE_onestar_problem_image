@@ -141,7 +141,7 @@ def build_row(problem_number: str) -> dict | None:
         code = f"uva{problem_number}"
         name = f"[NUKC]uva_{problem_number}"
     else:
-        code = problem_number.replace("_", "")
+        code = problem_number.replace("_", "").lower()
         name = f"[NUKC]{problem_number}"
 
     description = build_description(img_urls)
