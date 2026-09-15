@@ -29,7 +29,7 @@ DEFAULT_MEMORY_LIMIT = 262144
 ALLOWED_LANGUAGES = "C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20"
 PROBLEM_GROUP     = "NUK"
 PROBLEM_TYPES     = "CPP"
-AUTHORS           = "Feng,A1115514"
+AUTHORS           = "Feng,A1115514,Ting"
 POINTS            = 1
 IS_PUBLIC         = "FALSE"
 IS_FULL_MARKUP    = "FALSE"
@@ -136,8 +136,14 @@ def build_row(problem_number: str) -> dict | None:
     os.rename(pdf_src, pdf_dst)
     print(f"  📦 已移至 pdfs/old/{problem_number}.pdf")
 
-    code        = f"uva{problem_number}"
-    name        = f"[UVa {problem_number}]"
+    is_uva = problem_number.isdigit()
+    if is_uva:
+        code = f"uva{problem_number}"
+        name = f"[NUKC]uva_{problem_number}"
+    else:
+        code = problem_number.replace("_", "")
+        name = f"[NUKC]{problem_number}"
+
     description = build_description(img_urls)
 
     row = {field: "" for field in CSV_FIELDS}
