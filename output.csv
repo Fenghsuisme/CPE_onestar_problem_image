@@ -1,78 +1,80 @@
 code,name,description,group,time_limit,memory_limit,points,types,authors,curators,testers,allowed_languages,is_public,partial,short_circuit,is_manually_managed,license,og_image,summary,banned_users,organizations,is_organization_private,enable_waveform,enable_ppa,ppa_maximum_fmax,f4pga_board,f4pga_target_fmax,openlane_pdk,openlane_ppa_score,openlane_critical_path_ns,openlane_core_area_um2,openlane_power_total,solution_content,solution_is_public,solution_authors,translation_en_name,translation_en_description,translation_zh_hant_name,translation_zh_hant_description,clarifications,language_limits,is_full_markup
-arithmeticseriesandsumofsquares,[NUKC]Arithmetic_Series_and_Sum_of_Squares,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Arithmetic_Series_and_Sum_of_Squares/Arithmetic_Series_and_Sum_of_Squares_p1.png)
+elephant,[NUKC]Elephant,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Elephant/Elephant_p1.png)
 
 ### Sample Input
 ```text
-3 2 5
+12
 ```
 
 ### Sample Output
 ```text
-Sum = ""35"", SumSq = ""55""
+3
 ```",NUK,3,262144,1,CPP,"Feng,A1115514,Ting",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
-cashchangedispenser,[NUKC]Cash_Change_Dispenser,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Cash_Change_Dispenser/Cash_Change_Dispenser_p1.png)
+fastpoweroftwomultiplication,[NUKC]Fast_Power_of_Two_Multiplication,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Fast_Power_of_Two_Multiplication/Fast_Power_of_Two_Multiplication_p1.png)
 
 ### Sample Input
 ```text
-68
+5 4
 ```
 
 ### Sample Output
 ```text
-6
+80
 ```",NUK,3,262144,1,CPP,"Feng,A1115514,Ting",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
-distancesquaredbetweentwopoints,[NUKC]Distance_Squared_between_Two_Points,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Distance_Squared_between_Two_Points/Distance_Squared_between_Two_Points_p1.png)
+intervaloverlapcheck,[NUKC]Interval_Overlap_Check,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Interval_Overlap_Check/Interval_Overlap_Check_p1.png)
 
 ### Sample Input
 ```text
-1 2 4 6
+2 8 5 12
 ```
 
 ### Sample Output
 ```text
-25
+overlap
 ```",NUK,3,262144,1,CPP,"Feng,A1115514,Ting",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
-divisibilityby3and5,[NUKC]Divisibility_by_3_and_5,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Divisibility_by_3_and_5/Divisibility_by_3_and_5_p1.png)
+jobexpenses,[NUKC]Job_Expenses,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Job_Expenses/Job_Expenses_p1.png)
 
 ### Sample Input
 ```text
-30
+-250
 ```
 
 ### Sample Output
 ```text
-YES
+250
 ```",NUK,3,262144,1,CPP,"Feng,A1115514,Ting",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
-evenorodd,[NUKC]Even_or_Odd,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Even_or_Odd/Even_or_Odd_p1.png)
+mealtotalcost,[NUKC]Meal_Total_Cost,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Meal_Total_Cost/Meal_Total_Cost_p1.png)
 
 ### Sample Input
 ```text
-14
+12.00
+20
+8
 ```
 
 ### Sample Output
 ```text
-even
+15
 ```",NUK,3,262144,1,CPP,"Feng,A1115514,Ting",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
-maximumofthreeintegers,[NUKC]Maximum_of_Three_Integers,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Maximum_of_Three_Integers/Maximum_of_Three_Integers_p1.png)
+properleapyears,[NUKC]Proper_Leap_Years,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Proper_Leap_Years/Proper_Leap_Years_p1.png)
 
 ### Sample Input
 ```text
-15 42 27
+2004
 ```
 
 ### Sample Output
 ```text
-42
+Yes
 ```",NUK,3,262144,1,CPP,"Feng,A1115514,Ting",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
-timeconversion,[NUKC]Time_Conversion,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Time_Conversion/Time_Conversion_p1.png)
+trianglevalidityandtype,[NUKC]Triangle_Validity_and_Type,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/Triangle_Validity_and_Type/Triangle_Validity_and_Type_p1.png)
 
 ### Sample Input
 ```text
-3665
+5 5 8
 ```
 
 ### Sample Output
 ```text
-1:1:5
+isosceles
 ```",NUK,3,262144,1,CPP,"Feng,A1115514,Ting",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
