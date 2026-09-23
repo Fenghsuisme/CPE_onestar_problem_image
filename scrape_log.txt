@@ -1,0 +1,586 @@
+
+====================================================
+  UVA 100
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/100.pdf
+  找到 14 筆測資
+  [ 1/14] nid=809769  ✅  in=1485c  out=1797c
+  [ 2/14] nid=809768  ✅  in=62c  out=88c
+  [ 3/14] nid=821829  ✅  in=58c  out=86c
+  [ 4/14] nid=827013  ✅  in=34445c  out=27c
+  [ 5/14] nid=827361  ✅  in=7c  out=11c
+  [ 6/14] nid=845358  ✅  in=187c  out=200c
+  [ 7/14] nid=845576  ✅  in=96c  out=93c
+  [ 8/14] nid=845577  ✅  in=147155c  out=178055c
+  [ 9/14] nid=846836  ✅  in=267c  out=232c
+  [10/14] nid=851212  ✅  in=90c  out=126c
+  [11/14] nid=851337  ✅  in=16c  out=13c
+  [12/14] nid=851336  ✅  in=197c  out=26c
+  [13/14] nid=852368  ✅  in=69c  out=89c
+  [14/14] nid=853564  ✅  in=9804c  out=13804c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva100.zip（14 筆）
+
+====================================================
+  UVA 118
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/118.pdf
+  找到 2 筆測資
+  [ 1/2] nid=809907  ✅  in=3228c  out=801c
+  [ 2/2] nid=831946  ✅  in=30c  out=16c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva118.zip（2 筆）
+
+====================================================
+  UVA 272
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/272.pdf
+  找到 3 筆測資
+  [ 1/3] nid=809792  ✅  in=655c  out=685c
+  [ 2/3] nid=814493  ✅  in=7c  out=13c
+  [ 3/3] nid=844560  ✅  in=3367c  out=3377c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva272.zip（3 筆）
+
+====================================================
+  UVA 299
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/299.pdf
+  找到 5 筆測資
+  [ 1/5] nid=809794  ✅  in=17407c  out=10093c
+  [ 2/5] nid=825259  ✅  in=145c  out=40c
+  [ 3/5] nid=828215  ✅  in=3c  out=37c
+  [ 4/5] nid=846749  ✅  in=145003c  out=39999c
+  [ 5/5] nid=853570  ✅  in=71017c  out=39480c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva299.zip（5 筆）
+
+====================================================
+  UVA 490
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/490.pdf
+  找到 3 筆測資
+  [ 1/3] nid=809836  ✅  in=1059c  out=1190c
+  [ 2/3] nid=845733  ✅  in=51c  out=76c
+  [ 3/3] nid=833007  ✅  in=7498c  out=21119c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva490.zip（3 筆）
+
+====================================================
+  UVA 948
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/948.pdf
+  找到 2 筆測資
+  [ 1/2] nid=826015  ✅  in=170c  out=1028c
+  [ 2/2] nid=843571  ✅  in=4504c  out=28000c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva948.zip（2 筆）
+
+====================================================
+  UVA 10008
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10008.pdf
+  找到 5 筆測資
+  [ 1/5] nid=810249  ✅  in=1034c  out=122c
+  [ 2/5] nid=813916  ✅  in=91c  out=75c
+  [ 3/5] nid=829829  ✅  in=473c  out=105c
+  [ 4/5] nid=829828  ✅  in=68c  out=55c
+  [ 5/5] nid=836053  ✅  in=230c  out=94c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10008.zip（5 筆）
+
+====================================================
+  UVA 10019
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10019.pdf
+  找到 2 筆測資
+  [ 1/2] nid=810250  ✅  in=4891c  out=4047c
+  [ 2/2] nid=854646  ✅  in=14c  out=11c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10019.zip（2 筆）
+
+====================================================
+  UVA 10035
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10035.pdf
+  找到 6 筆測資
+  [ 1/6] nid=810251  ✅  in=22004c  out=47647c
+  [ 2/6] nid=810252  ✅  in=2101c  out=1998c
+  [ 3/6] nid=833868  ✅  in=280c  out=259c
+  [ 4/6] nid=845979  ✅  in=205c  out=279c
+  [ 5/6] nid=847327  ✅  in=33c  out=99c
+  [ 6/6] nid=844767  ✅  in=11c  out=18c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10035.zip（6 筆）
+
+====================================================
+  UVA 10038
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10038.pdf
+  找到 6 筆測資
+  [ 1/6] nid=810222  ✅  in=110c  out=91c
+  [ 2/6] nid=814523  ✅  in=8c  out=5c
+  [ 3/6] nid=829773  ✅  in=1847c  out=701c
+  [ 4/6] nid=836134  ✅  in=87c  out=73c
+  [ 5/6] nid=847430  ✅  in=82c  out=63c
+  [ 6/6] nid=827901  ✅  in=1889c  out=711c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10038.zip（6 筆）
+
+====================================================
+  UVA 10041
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10041.pdf
+  找到 3 筆測資
+  [ 1/3] nid=810225  ✅  in=136245c  out=762c
+  [ 2/3] nid=810224  ✅  in=168c  out=26c
+  [ 3/3] nid=843453  ✅  in=77c  out=15c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10041.zip（3 筆）
+
+====================================================
+  UVA 10050
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10050.pdf
+  找到 3 筆測資
+  [ 1/3] nid=810226  ✅  in=349c  out=28c
+  [ 2/3] nid=835191  ✅  in=54c  out=8c
+  [ 3/3] nid=829742  ✅  in=30c  out=4c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10050.zip（3 筆）
+
+====================================================
+  UVA 10055
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10055.pdf
+  找到 6 筆測資
+  [ 1/6] nid=810227  ✅  in=2097c  out=1021c
+  [ 2/6] nid=813999  ✅  in=237c  out=127c
+  [ 3/6] nid=814626  ✅  in=127c  out=59c
+  [ 4/6] nid=846731  ✅  in=44c  out=9c
+  [ 5/6] nid=847455  ✅  in=87c  out=37c
+  [ 6/6] nid=851578  ✅  in=37c  out=25c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10055.zip（6 筆）
+
+====================================================
+  UVA 10056
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10056.pdf
+  找到 1 筆測資
+  [ 1/1] nid=810332  ✅  in=90c  out=41c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10056.zip（1 筆）
+
+====================================================
+  UVA 10057
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10057.pdf
+  找到 2 筆測資
+  [ 1/2] nid=810228  ✅  in=441c  out=83c
+  [ 2/2] nid=829153  ✅  in=459377c  out=80c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10057.zip（2 筆）
+
+====================================================
+  UVA 10062
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10062.pdf
+  找到 3 筆測資
+  [ 1/3] nid=810229  ✅  in=10979c  out=40881c
+  [ 2/3] nid=836830  ✅  in=24c  out=44c
+  [ 3/3] nid=843421  ✅  in=19c  out=40c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10062.zip（3 筆）
+
+====================================================
+  UVA 10071
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10071.pdf
+  找到 3 筆測資
+  [ 1/3] nid=810232  ✅  in=699c  out=585c
+  [ 2/3] nid=846688  ✅  in=277379c  out=232361c
+  [ 3/3] nid=847611  ✅  in=699c  out=585c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10071.zip（3 筆）
+
+====================================================
+  UVA 10093
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10093.pdf
+  找到 3 筆測資
+  [ 1/3] nid=810350  ✅  in=214c  out=130c
+  [ 2/3] nid=814420  ✅  in=2982c  out=11484c
+  [ 3/3] nid=853850  ✅  in=319c  out=581c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10093.zip（3 筆）
+
+====================================================
+  UVA 10101
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10101.pdf
+  找到 4 筆測資
+  [ 1/4] nid=810273  ✅  in=20530c  out=69510c
+  [ 2/4] nid=810274  ✅  in=1056c  out=4553c
+  [ 3/4] nid=835739  ✅  in=296c  out=1106c
+  [ 4/4] nid=836488  ✅  in=60c  out=44c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10101.zip（4 筆）
+
+====================================================
+  UVA 10170
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10170.pdf
+  找到 3 筆測資
+  [ 1/3] nid=814344  ✅  in=14099c  out=7214c
+  [ 2/3] nid=810367  ✅  in=99c  out=45c
+  [ 3/3] nid=849195  ✅  in=163c  out=71c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10170.zip（3 筆）
+
+====================================================
+  UVA 10189
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10189.pdf
+  找到 2 筆測資
+  [ 1/2] nid=810255  ✅  in=153275c  out=153571c
+  [ 2/2] nid=821248  ✅  in=153321c  out=153633c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10189.zip（2 筆）
+
+====================================================
+  UVA 10190
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10190.pdf
+  找到 2 筆測資
+  [ 1/2] nid=814425  ✅  in=16267c  out=21449c
+  [ 2/2] nid=810379  ✅  in=1031c  out=1635c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10190.zip（2 筆）
+
+====================================================
+  UVA 10193
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10193.pdf
+  找到 1 筆測資
+  [ 1/1] nid=810245  ✅  in=125c  out=65c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10193.zip（1 筆）
+
+====================================================
+  UVA 10221
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10221.pdf
+  找到 2 筆測資
+  [ 1/2] nid=810495  ✅  in=11c  out=25c
+  [ 2/2] nid=845025  ✅  in=127c  out=237c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10221.zip（2 筆）
+
+====================================================
+  UVA 10222
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10222.pdf
+  找到 7 筆測資
+  [ 1/7] nid=814319  ✅  in=50048c  out=50048c
+  [ 2/7] nid=833315  ✅  in=11c  out=11c
+  [ 3/7] nid=839472  ✅  in=40c  out=40c
+  [ 4/7] nid=854180  ✅  in=2c  out=2c
+  [ 5/7] nid=854181  ✅  in=1c  out=1c
+  [ 6/7] nid=814743  ✅  in=960c  out=0c
+  [ 7/7] nid=821441  ✅  in=115c  out=0c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10222.zip（7 筆）
+
+====================================================
+  UVA 10226
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10226.pdf
+  找到 4 筆測資
+  [ 1/4] nid=810394  ✅  in=13930c  out=3691c
+  [ 2/4] nid=810393  ✅  in=475c  out=718c
+  [ 3/4] nid=833695  ✅  in=69c  out=133c
+  [ 4/4] nid=833696  ✅  in=20c  out=36c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10226.zip（4 筆）
+
+====================================================
+  UVA 10235
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10235.pdf
+  找到 2 筆測資
+  [ 1/2] nid=810395  ✅  in=69c  out=203c
+  [ 2/2] nid=827899  ✅  in=15978c  out=59148c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10235.zip（2 筆）
+
+====================================================
+  UVA 10242
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10242.pdf
+  找到 2 筆測資
+  [ 1/2] nid=810904  ✅  in=191c  out=47c
+  [ 2/2] nid=821437  ✅  in=93772c  out=24122c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10242.zip（2 筆）
+
+====================================================
+  UVA 10252
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10252.pdf
+  找到 1 筆測資
+  [ 1/1] nid=810409  ✅  in=117c  out=34c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10252.zip（1 筆）
+
+====================================================
+  UVA 10268
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10268.pdf
+  找到 5 筆測資
+  [ 1/5] nid=814417  ✅  in=11836c  out=3777c
+  [ 2/5] nid=810418  ✅  in=249c  out=57c
+  [ 3/5] nid=842114  ✅  in=17c  out=5c
+  [ 4/5] nid=845032  ✅  in=23c  out=5c
+  [ 5/5] nid=853983  ✅  in=9c  out=1c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10268.zip（5 筆）
+
+====================================================
+  UVA 10409
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10409.pdf
+  找到 2 筆測資
+  [ 1/2] nid=810446  ✅  in=199c  out=21c
+  [ 2/2] nid=832378  ✅  in=350c  out=1c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10409.zip（2 筆）
+
+====================================================
+  UVA 10415
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10415.pdf
+  找到 1 筆測資
+  [ 1/1] nid=810449  ✅  in=218c  out=240c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10415.zip（1 筆）
+
+====================================================
+  UVA 10420
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10420.pdf
+  找到 5 筆測資
+  [ 1/5] nid=810450  ✅  in=156c  out=31c
+  [ 2/5] nid=833104  ✅  in=24004c  out=15999c
+  [ 3/5] nid=833078  ✅  in=54c  out=17c
+  [ 4/5] nid=845253  ✅  in=17c  out=3c
+  [ 5/5] nid=852474  ✅  in=107c  out=35c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10420.zip（5 筆）
+
+====================================================
+  UVA 10642
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10642.pdf
+  找到 3 筆測資
+  [ 1/3] nid=813737  ✅  in=17621c  out=17837c
+  [ 2/3] nid=813736  ✅  in=35c  out=35c
+  [ 3/3] nid=835699  ✅  in=410c  out=308c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10642.zip（3 筆）
+
+====================================================
+  UVA 10783
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10783.pdf
+  找到 4 筆測資
+  [ 1/4] nid=814296  ✅  in=591c  out=1328c
+  [ 2/4] nid=810604  ✅  in=17c  out=39c
+  [ 3/4] nid=821345  ✅  in=29992c  out=77463c
+  [ 4/4] nid=838944  ✅  in=10c  out=19c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10783.zip（4 筆）
+
+====================================================
+  UVA 10812
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10812.pdf
+  找到 4 筆測資
+  [ 1/4] nid=810608  ✅  in=2106c  out=1304c
+  [ 2/4] nid=813917  ✅  in=29c  out=48c
+  [ 3/4] nid=830236  ✅  in=6017c  out=8684c
+  [ 4/4] nid=833241  ✅  in=17c  out=29c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10812.zip（4 筆）
+
+====================================================
+  UVA 10908
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10908.pdf
+  找到 4 筆測資
+  [ 1/4] nid=810675  ✅  in=979c  out=78c
+  [ 2/4] nid=829901  ✅  in=68115c  out=28113c
+  [ 3/4] nid=834613  ✅  in=145c  out=9c
+  [ 4/4] nid=832017  ✅  in=413c  out=44c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10908.zip（4 筆）
+
+====================================================
+  UVA 10922
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10922.pdf
+  找到 3 筆測資
+  [ 1/3] nid=810683  ✅  in=775c  out=836c
+  [ 2/3] nid=814644  ✅  in=29476c  out=33374c
+  [ 3/3] nid=831506  ✅  in=57c  out=157c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10922.zip（3 筆）
+
+====================================================
+  UVA 10929
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10929.pdf
+  找到 3 筆測資
+  [ 1/3] nid=810685  ✅  in=198c  out=217c
+  [ 2/3] nid=814645  ✅  in=56930c  out=61448c
+  [ 3/3] nid=832345  ✅  in=44c  out=172c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10929.zip（3 筆）
+
+====================================================
+  UVA 10931
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/10931.pdf
+  找到 2 筆測資
+  [ 1/2] nid=810697  ✅  in=298c  out=2192c
+  [ 2/2] nid=827282  ✅  in=11c  out=127c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva10931.zip（2 筆）
+
+====================================================
+  UVA 11005
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/11005.pdf
+  找到 2 筆測資
+  [ 1/2] nid=811877  ✅  in=8872c  out=43004c
+  [ 2/2] nid=831841  ✅  in=225c  out=688c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva11005.zip（2 筆）
+
+====================================================
+  UVA 11063
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/11063.pdf
+  找到 6 筆測資
+  [ 1/6] nid=810717  ✅  in=257103c  out=36311c
+  [ 2/6] nid=810718  ✅  in=154c  out=377c
+  [ 3/6] nid=835775  ✅  in=38c  out=64c
+  [ 4/6] nid=842530  ✅  in=73c  out=169c
+  [ 5/6] nid=833665  ✅  in=98c  out=239c
+  [ 6/6] nid=842532  ✅  in=9c  out=68c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva11063.zip（6 筆）
+
+====================================================
+  UVA 11150
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/11150.pdf
+  找到 5 筆測資
+  [ 1/5] nid=810730  ✅  in=691c  out=727c
+  [ 2/5] nid=810731  ✅  in=55c  out=58c
+  [ 3/5] nid=834269  ✅  in=8c  out=8c
+  [ 4/5] nid=846144  ✅  in=71c  out=78c
+  [ 5/5] nid=846852  ✅  in=691c  out=727c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva11150.zip（5 筆）
+
+====================================================
+  UVA 11321
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/11321.pdf
+  找到 6 筆測資
+  [ 1/6] nid=810797  ✅  in=79915c  out=79915c
+  [ 2/6] nid=810796  ✅  in=53c  out=53c
+  [ 3/6] nid=818247  ✅  in=103c  out=103c
+  [ 4/6] nid=826761  ✅  in=103c  out=103c
+  [ 5/6] nid=843970  ✅  in=43c  out=43c
+  [ 6/6] nid=846427  ✅  in=58c  out=58c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva11321.zip（6 筆）
+
+====================================================
+  UVA 11332
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/11332.pdf
+  找到 5 筆測資
+  [ 1/5] nid=810799  ✅  in=355c  out=99c
+  [ 2/5] nid=831910  ✅  in=104477c  out=19999c
+  [ 3/5] nid=846125  ✅  in=71c  out=23c
+  [ 4/5] nid=846822  ✅  in=91c  out=17c
+  [ 5/5] nid=836530  ✅  in=46c  out=27c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva11332.zip（5 筆）
+
+====================================================
+  UVA 11349
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/11349.pdf
+  找到 3 筆測資
+  [ 1/3] nid=810808  ✅  in=325c  out=175c
+  [ 2/3] nid=847530  ✅  in=374c  out=220c
+  [ 3/3] nid=852552  ✅  in=393c  out=135c
+  ✅ autofill 完成：/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/autofill/zip_files/uva11349.zip（3 筆）
+
+====================================================
+  UVA 11417
+====================================================
+  ✅ PDF: /Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/pdfs/new/11417.pdf
+  找到 3 筆測資
+  [ 1/3] nid=810823  ✅  in=1893c  out=3111c
+  [ 2/3] nid=825519  ✅  in=3c  out=2c
+  [ 3/3] nid=849950Traceback (most recent call last):
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "/opt/homebrew/Cellar/python@3.13/3.13.3/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.3/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.3/Frameworks/Python.framework/Versions/3.13/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.3/Frameworks/Python.framework/Versions/3.13/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.3/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.3/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 542, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 373, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.udebug.com', port=443): Read timed out. (read timeout=60)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/uva_scraper.py", line 238, in <module>
+    main()
+    ~~~~^^
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/uva_scraper.py", line 232, in main
+    scrape_problem(num.strip())
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/uva_scraper.py", line 201, in scrape_problem
+    out, new_token = fetch_output(
+                     ~~~~~~~~~~~~^
+        session, num, problem_nid, form_build_id, inp, input_nid
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/uva_scraper.py", line 108, in fetch_output
+    r = session.post(
+        f"https://www.udebug.com/UVa/{num}",
+    ...<9 lines>...
+        timeout=60,
+    )
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/requests/sessions.py", line 712, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/bro/Program/cpe_problem/image/CPE_onestar_problem_image/.venv/lib/python3.13/site-packages/requests/adapters.py", line 742, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.udebug.com', port=443): Read timed out. (read timeout=60)
+=== 完成 ===
