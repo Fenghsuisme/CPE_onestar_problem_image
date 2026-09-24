@@ -2,4 +2,4 @@
 .DS_Store
 .devin/
 ./out.txt
-./output.csv
+output.csv
