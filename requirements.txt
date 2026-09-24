@@ -1,0 +1,4 @@
+# build_csv.py renders problem PDFs to PNG and reads their text (imported as `fitz`).
+# autofill/fill.py needs nothing beyond the standard library.
+# Tested with 1.27.1 on Python 3.14; build_csv.py needs Python 3.10+ for `dict | None`.
+pymupdf>=1.24
