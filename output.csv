@@ -715,26 +715,6 @@ C12H22O11
 75.070
 342.296
 ```",NUK,3,262144,1,CPP,"Feng,A1115514,Ting",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
-uva272,[NUKC]uva_272,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/272/272_p1.png)
-
-![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/272/272_p2.png)
-
-
-### Sample Input
-```text
-""To be or not to be,"" quoth the Bard, ""that
-is the question"".
-The programming contestant replied: ""I must disagree.
-To `C' or not to `C', that is The Question!""
-```
-
-### Sample Output
-```text
-``To be or not to be,'' quoth the Bard, ``that
-is the question''.
-The programming contestant replied: ``I must disagree.
-To `C' or not to `C', that is The Question!''
-```",NUK,3,262144,1,CPP,"Feng,A1115514,Ting",,,"C,C11,Clang,Clang++,CPP03,CPP11,CPP14,CPP17,CPP20",FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
 uva275,[NUKC]uva_275,"![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/275/275_p1.png)
 
 ![](https://raw.githubusercontent.com/Fenghsuisme/CPE_onestar_problem_image/main/images/275/275_p2.png)
