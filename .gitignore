@@ -1,3 +1,6 @@
 .venv/
 guide.md
 requirements.txt
+
+
+output.csv
