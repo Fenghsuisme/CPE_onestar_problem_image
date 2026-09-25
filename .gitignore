@@ -3,3 +3,6 @@
 out.txt
 output.csv
 __pycache__/
+reports/
+.vscode/
+answer/
