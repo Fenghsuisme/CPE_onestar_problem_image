@@ -17,6 +17,9 @@ Read `README.md` for the layout and the 8-stage workflow. Each stage has a skill
   Always pilot 3 problems first; any mismatch → stop and report, don't continue on your own.
 - **Credentials:** never type the user's passwords; let them log in. Session cookies live in `~/.dmoj_session`
   (chmod 600) or env vars, never in the repo. Don't bypass CAPTCHAs or rate limits.
+- **"The user's logged-in browser"** = the host app's built-in / in-app browser if it has one
+  (e.g. Synara's `browser_*` tools). If there is none, stop and ask; don't open a separate,
+  logged-out browser.
 - **Delete only with `trash`**, after the user approves the exact paths. Never `rm`.
 - **Don't fix what you weren't asked to fix.** If you find a bad test file or data issue, report it and ask.
 - **Sub-agents:** if your tool supports them, fan out large batches (e.g. 51 problems) to parallel workers,
