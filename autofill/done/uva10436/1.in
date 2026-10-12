@@ -1,0 +1,23 @@
+2
+4
+mirpur12 5
+farmgate 8
+gulistan 10
+newmarket 5
+4
+mirpur12 farmgate 12
+mirpur12 newmarket 20
+farmgate gulistan 10
+newmarket gulistan 8
+2
+mirpur12 gulistan 30
+mirpur12 newmarket 30
+3
+uttara 2
+farmgate 8
+gulistan 10
+2
+uttara farmgate 35
+farmgate gulistan 10
+1
+uttara gulistan 30
