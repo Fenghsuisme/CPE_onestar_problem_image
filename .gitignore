@@ -6,3 +6,6 @@ __pycache__/
 reports/
 .vscode/
 answer/
+presentations/
+comparisons.md
+records.md
