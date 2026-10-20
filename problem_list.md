@@ -1,5 +1,4 @@
-- uva 10346
-- uva 382
-- uva 10591
-- uva 11428
-- uva 11185
+- uva 10487
+- Watermelon
+- Prime_Factorization
+- Hello_World_with_Spaces

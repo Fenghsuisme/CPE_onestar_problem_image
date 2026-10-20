@@ -1,0 +1,103 @@
+Case 1:
+Closest sum to 1 is 14.
+Case 2:
+Closest sum to -3 is -3.
+Case 3:
+Closest sum to -100 is -5.
+Closest sum to 100 is 21.
+Closest sum to 8 is 8.
+Closest sum to -3 is -3.
+Closest sum to 21 is 21.
+Closest sum to 0 is 2.
+Closest sum to 15 is 15.
+Case 4:
+Closest sum to 2 is 7.
+Closest sum to 30 is 16.
+Closest sum to 11 is 11.
+Closest sum to 16 is 16.
+Case 5:
+Closest sum to 3 is 1.
+Closest sum to -3 is -1.
+Closest sum to 0 is 0.
+Closest sum to 1 is 1.
+Closest sum to -2 is -1.
+Case 6:
+Closest sum to -10 is 4.
+Closest sum to -9 is 4.
+Closest sum to -8 is 4.
+Closest sum to -7 is 4.
+Closest sum to -6 is 4.
+Closest sum to -5 is 4.
+Closest sum to -4 is 4.
+Closest sum to -3 is 4.
+Closest sum to -2 is 4.
+Closest sum to -1 is 4.
+Closest sum to 0 is 4.
+Closest sum to 1 is 4.
+Closest sum to 2 is 4.
+Closest sum to 3 is 4.
+Closest sum to 4 is 4.
+Closest sum to 5 is 4.
+Closest sum to 6 is 4.
+Closest sum to 7 is 4.
+Closest sum to 8 is 4.
+Closest sum to 9 is 4.
+Closest sum to 10 is 4.
+Closest sum to 11 is 4.
+Closest sum to 12 is 4.
+Closest sum to 13 is 4.
+Case 7:
+Closest sum to 64 is 31.
+Closest sum to 41 is 31.
+Closest sum to -36 is -29.
+Closest sum to 32 is 31.
+Closest sum to -56 is -29.
+Closest sum to 12 is 13.
+Closest sum to 13 is 13.
+Closest sum to -34 is -29.
+Closest sum to 3 is 3.
+Closest sum to -65 is -29.
+Closest sum to 51 is 31.
+Closest sum to 57 is 31.
+Closest sum to 38 is 31.
+Case 8:
+Closest sum to 79 is 79.
+Closest sum to 146 is 146.
+Closest sum to -61 is -61.
+Closest sum to -22 is -22.
+Closest sum to -13 is -13.
+Closest sum to 111 is 111.
+Closest sum to -247 is -196.
+Closest sum to -154 is -154.
+Closest sum to -117 is -117.
+Closest sum to -1 is -1.
+Closest sum to 134 is 134.
+Closest sum to 57 is 57.
+Closest sum to -102 is -102.
+Closest sum to 119 is 119.
+Closest sum to 96 is 96.
+Closest sum to -192 is -196.
+Closest sum to 192 is 191.
+Closest sum to -276 is -196.
+Closest sum to 27 is 27.
+Closest sum to -266 is -196.
+Closest sum to -157 is -157.
+Closest sum to -187 is -186.
+Case 9:
+Closest sum to -2958 is -1966.
+Closest sum to 1667 is 1667.
+Closest sum to -1342 is -1342.
+Closest sum to 1552 is 1552.
+Closest sum to 2709 is 1961.
+Closest sum to -1416 is -1416.
+Closest sum to -1846 is -1846.
+Closest sum to 2810 is 1961.
+Closest sum to -1887 is -1887.
+Case 10:
+Closest sum to 127 is 96.
+Closest sum to 10 is 10.
+Closest sum to 51 is 51.
+Closest sum to 129 is 96.
+Closest sum to 139 is 96.
+Closest sum to 91 is 91.
+Closest sum to 45 is 45.
