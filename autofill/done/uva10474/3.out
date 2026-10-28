@@ -1,0 +1,316 @@
+CASE# 1:
+5 found at 1
+CASE# 2:
+4 not found
+CASE# 3:
+0 found at 1
+10000 not found
+1 not found
+CASE# 4:
+10000 found at 1
+0 not found
+9999 not found
+CASE# 5:
+7 found at 1
+6 not found
+8 not found
+CASE# 6:
+1 found at 1
+2 found at 3
+3 found at 6
+0 not found
+4 not found
+CASE# 7:
+0 not found
+5 not found
+9 not found
+10 found at 1
+11 not found
+15 not found
+19 not found
+20 found at 2
+21 not found
+29 not found
+30 found at 3
+31 not found
+10000 not found
+CASE# 8:
+8 found at 3
+8 found at 3
+8 found at 3
+4 found at 1
+4 found at 1
+CASE# 9:
+6 found at 6
+5 found at 5
+4 found at 4
+3 found at 3
+2 found at 2
+1 found at 1
+0 not found
+7 not found
+CASE# 10:
+1 found at 1
+2 found at 2
+3 found at 3
+4 found at 4
+5 found at 5
+6 found at 6
+0 not found
+7 not found
+CASE# 11:
+0 found at 1
+5000 found at 3
+10000 found at 4
+1 not found
+9999 not found
+4999 not found
+5001 not found
+CASE# 12:
+9 found at 1
+10 not found
+8 not found
+CASE# 13:
+1 found at 1
+2 found at 2
+3 not found
+CASE# 14:
+2 found at 2
+1 found at 1
+0 not found
+CASE# 15:
+0 found at 1
+1 not found
+10000 not found
+CASE# 16:
+10000 found at 1
+9999 not found
+0 not found
+CASE# 17:
+5 found at 4
+1 found at 1
+3 not found
+CASE# 18:
+99 not found
+101 not found
+199 not found
+201 not found
+299 not found
+301 not found
+399 not found
+401 not found
+CASE# 19:
+2 found at 5
+1 found at 1
+CASE# 20:
+1 found at 1
+2 found at 5
+CASE# 21:
+3965 not found
+CASE# 22:
+3 found at 4
+5 not found
+5 not found
+2 not found
+0 found at 1
+CASE# 23:
+9792 not found
+6828 not found
+1122 not found
+CASE# 24:
+2 not found
+0 found at 1
+0 found at 1
+1 found at 6
+1 found at 6
+5 not found
+0 found at 1
+4 not found
+CASE# 25:
+0 found at 1
+1 found at 2
+3 not found
+2 not found
+CASE# 26:
+4501 not found
+9463 not found
+CASE# 27:
+27 found at 8
+8 not found
+CASE# 28:
+5 not found
+1 found at 3
+2 found at 4
+1 found at 3
+CASE# 29:
+5129 not found
+8782 not found
+CASE# 30:
+1280 not found
+5144 not found
+8706 not found
+1433 not found
+3816 not found
+2767 not found
+9945 not found
+1664 not found
+CASE# 31:
+1 not found
+38 not found
+49 not found
+CASE# 32:
+6845 not found
+3987 not found
+9430 not found
+7107 not found
+7602 not found
+CASE# 33:
+1 found at 3
+3 found at 9
+3 found at 9
+CASE# 34:
+1 found at 1
+0 not found
+0 not found
+1 found at 1
+4 not found
+3 not found
+3 not found
+CASE# 35:
+1089 not found
+8560 not found
+4522 not found
+779 not found
+8321 not found
+CASE# 36:
+8977 not found
+3642 not found
+8347 not found
+7953 not found
+CASE# 37:
+9 found at 3
+3 not found
+4 found at 1
+1 not found
+6 not found
+0 not found
+9 found at 3
+CASE# 38:
+5 not found
+CASE# 39:
+11 not found
+0 found at 1
+CASE# 40:
+3 not found
+13 not found
+45 not found
+2 not found
+47 not found
+8 not found
+CASE# 41:
+1 not found
+CASE# 42:
+12 not found
+CASE# 43:
+10 found at 12
+4 found at 3
+4 found at 3
+8 found at 7
+10 found at 12
+CASE# 44:
+4 not found
+2 not found
+8 not found
+CASE# 45:
+20 not found
+5 not found
+CASE# 46:
+11 not found
+1 not found
+12 not found
+CASE# 47:
+5 found at 9
+3 found at 4
+CASE# 48:
+525 not found
+CASE# 49:
+8624 not found
+7310 not found
+3226 not found
+4962 not found
+CASE# 50:
+31 found at 7
+41 not found
+3 not found
+27 not found
+26 not found
+CASE# 51:
+4178 not found
+7414 not found
+2170 not found
+CASE# 52:
+8217 not found
+2997 not found
+767 not found
+7978 not found
+5080 not found
+2265 not found
+CASE# 53:
+0 found at 1
+4 not found
+4 not found
+4 not found
+3 found at 10
+CASE# 54:
+43 found at 5
+CASE# 55:
+48 not found
+51 not found
+24 not found
+7 found at 1
+25 not found
+CASE# 56:
+31 not found
+24 not found
+30 not found
+45 not found
+43 not found
+51 not found
+CASE# 57:
+7383 not found
+6353 not found
+2390 not found
+3197 not found
+CASE# 58:
+2 not found
+10 not found
+5 found at 2
+CASE# 59:
+51 not found
+CASE# 60:
+24 not found
+48 not found
+39 found at 3
+23 not found
+18 not found
+CASE# 61:
+13 not found
+42 not found
+1 found at 2
+CASE# 62:
+0 found at 1
+5 not found
+0 found at 1
+4 not found
+4 not found
+5 not found
+5 not found
+2 found at 5
+CASE# 63:
+7 not found
+10 found at 9
+11 not found
+CASE# 64:
+4 found at 3
+10 found at 9
+4 found at 3
