@@ -1,7 +1,4 @@
-- Equal_Sharing
-- Sort_Three_Numbers
-- Sum_and_Difference
-- uva 11634
-- uva 11054
+- uva 11192
+- Creating_Strings
 
-> 註：11/10 練習共 7 題（#1–#3 是上面 3 題自編指標題，#4 10041、#5 10050、#6 11634、#7 11054）。10041、10050 已在 DMOJ 上公開（代碼 `uvax10041`、`uvax10050`），不必匯入，只需在第 5–7 階段補測資。3 題自編題的測資資料夾名稱要和 PDF 檔名一致（`Equal_Sharing`、`Sort_Three_Numbers`、`Sum_and_Difference`）。
+> 註：11/17 練習共 8 題（#1 12289、#2 10929、#3 272、#4 11192、#5 11541、#6 10008、#7 10420、#8 Creating_Strings）。其中 6 題已在 DMOJ 上公開（代碼 `uva12289`、`uvax10929`、`uvax272`、`uva11541`、`uvax10008`、`uvax10420`），不重新匯入，只在第 5–7 階段補測資後放進競賽。上面 2 題是要新匯入的。

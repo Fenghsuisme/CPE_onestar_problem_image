@@ -1,0 +1,9 @@
+No quotation marks here at all.
+
+Backticks ` and apostrophes ' stay: it's `C' not ``C''.
+``Already TeX style'' must pass through unchanged, also '' and `` alone: '' ``
+   leading spaces are kept
+ !#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+
+
+!#$%&()*+,-./:;<=>?@[\]^_{|}~ 0123456789 ABC xyz
