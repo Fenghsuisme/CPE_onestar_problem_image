@@ -52,7 +52,7 @@ Always run scripts from the repo root. All paths are relative.
 | 2 | `/cpe-2-dedupe` | Drop problems already on DMOJ | trimmed `pdfs/new/`, `problem_list.md` |
 | 3 | `/cpe-3-build-csv` | PDFs → PNGs + CSV rows (all hidden) | `images/<id>/`, `output.csv` |
 | 4 | `/cpe-4-fill-samples` | Copy Sample Input/Output exactly into `output.csv`, then you merge to main and import | filled `output.csv` |
-| 5 | `/cpe-5-testing-data` | Fetch uDebug cases, build `.in/.out` and zips | `testing_data/`, `autofill/done/`, `autofill/zip_files/` |
+| 5 | `/cpe-5-testing-data` | Fetch uDebug cases (weekly practice: generate and verify 15 cases per problem, uDebug as a cross-check), build `.in/.out` and zips | `testing_data/`, `autofill/done/`, `autofill/zip_files/` |
 | 6 | `/cpe-6-verify-answers` | Get AC solutions, verify on ZeroJudge / vjudge, run them on our test data, 3 s check | `answer/`, `answer/REPORT.md` |
 | 7 | `/cpe-7-upload-testdata` | Upload zips to judge.gai.tw (3 first), check YAML, submit answers | test data on DMOJ |
 | 8 | `/cpe-8-publish` | Make the problems public, only when you say "公開" | public problems |

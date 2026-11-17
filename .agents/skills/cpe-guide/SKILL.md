@@ -20,7 +20,7 @@ Read `README.md` and summarize: layout, the 8 stages, which steps the user does 
 | 2 | `/cpe-2-dedupe` | drop problems already on DMOJ |
 | 3 | `/cpe-3-build-csv` | PDFs → images + `output.csv` |
 | 4 | `/cpe-4-fill-samples` | exact Sample I/O into `output.csv`, then merge + import |
-| 5 | `/cpe-5-testing-data` | uDebug → `testing_data/` → `.in/.out` + zips |
+| 5 | `/cpe-5-testing-data` | uDebug → `testing_data/` → `.in/.out` + zips (weekly practice: 15 self-generated, verified cases per problem, uDebug as a cross-check) |
 | 6 | `/cpe-6-verify-answers` | AC answers, online-judge + local verification, 3 s check |
 | 7 | `/cpe-7-upload-testdata` | upload zips to judge.gai.tw, check YAML, submit answers |
 | 8 | `/cpe-8-publish` | make public, only on "公開" |

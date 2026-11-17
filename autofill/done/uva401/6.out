@@ -1,0 +1,186 @@
+AB -- is not a palindrome.
+
+BA -- is not a palindrome.
+
+AB -- is not a palindrome.
+
+AAB -- is not a palindrome.
+
+BAA -- is not a palindrome.
+
+AAB -- is not a palindrome.
+
+ABA -- is a regular palindrome.
+
+AEA -- is a regular palindrome.
+
+A2A -- is a regular palindrome.
+
+AOA -- is a mirrored palindrome.
+
+AAAB -- is not a palindrome.
+
+BAAA -- is not a palindrome.
+
+AABA -- is not a palindrome.
+
+AAAAB -- is not a palindrome.
+
+BAAAA -- is not a palindrome.
+
+AAABA -- is not a palindrome.
+
+AABAA -- is a regular palindrome.
+
+AAEAA -- is a regular palindrome.
+
+AA2AA -- is a regular palindrome.
+
+AAOAA -- is a mirrored palindrome.
+
+AAAAAB -- is not a palindrome.
+
+BAAAAA -- is not a palindrome.
+
+AAABAA -- is not a palindrome.
+
+AAAAAAB -- is not a palindrome.
+
+BAAAAAA -- is not a palindrome.
+
+AAAABAA -- is not a palindrome.
+
+AAABAAA -- is a regular palindrome.
+
+AAAEAAA -- is a regular palindrome.
+
+AAA2AAA -- is a regular palindrome.
+
+AAAOAAA -- is a mirrored palindrome.
+
+AAAAAAAB -- is not a palindrome.
+
+BAAAAAAA -- is not a palindrome.
+
+AAAABAAA -- is not a palindrome.
+
+AAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAA -- is not a palindrome.
+
+AAAAABAAA -- is not a palindrome.
+
+AAAABAAAA -- is a regular palindrome.
+
+AAAAEAAAA -- is a regular palindrome.
+
+AAAA2AAAA -- is a regular palindrome.
+
+AAAAOAAAA -- is a mirrored palindrome.
+
+AAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAA -- is not a palindrome.
+
+AAAAABAAAA -- is not a palindrome.
+
+AAAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAAA -- is not a palindrome.
+
+AAAAAABAAAA -- is not a palindrome.
+
+AAAAABAAAAA -- is a regular palindrome.
+
+AAAAAEAAAAA -- is a regular palindrome.
+
+AAAAA2AAAAA -- is a regular palindrome.
+
+AAAAAOAAAAA -- is a mirrored palindrome.
+
+AAAAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAAAA -- is not a palindrome.
+
+AAAAAABAAAAA -- is not a palindrome.
+
+AAAAAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAAAAA -- is not a palindrome.
+
+AAAAAAABAAAAA -- is not a palindrome.
+
+AAAAAABAAAAAA -- is a regular palindrome.
+
+AAAAAAEAAAAAA -- is a regular palindrome.
+
+AAAAAA2AAAAAA -- is a regular palindrome.
+
+AAAAAAOAAAAAA -- is a mirrored palindrome.
+
+AAAAAAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAAAAAA -- is not a palindrome.
+
+AAAAAAABAAAAAA -- is not a palindrome.
+
+AAAAAAAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAAAAAAA -- is not a palindrome.
+
+AAAAAAAABAAAAAA -- is not a palindrome.
+
+AAAAAAABAAAAAAA -- is a regular palindrome.
+
+AAAAAAAEAAAAAAA -- is a regular palindrome.
+
+AAAAAAA2AAAAAAA -- is a regular palindrome.
+
+AAAAAAAOAAAAAAA -- is a mirrored palindrome.
+
+AAAAAAAAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAAAAAAAA -- is not a palindrome.
+
+AAAAAAAABAAAAAAA -- is not a palindrome.
+
+AAAAAAAAAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAAAAAAAAA -- is not a palindrome.
+
+AAAAAAAAABAAAAAAA -- is not a palindrome.
+
+AAAAAAAABAAAAAAAA -- is a regular palindrome.
+
+AAAAAAAAEAAAAAAAA -- is a regular palindrome.
+
+AAAAAAAA2AAAAAAAA -- is a regular palindrome.
+
+AAAAAAAAOAAAAAAAA -- is a mirrored palindrome.
+
+AAAAAAAAAAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAAAAAAAAAA -- is not a palindrome.
+
+AAAAAAAAABAAAAAAAA -- is not a palindrome.
+
+AAAAAAAAAAAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAAAAAAAAAAA -- is not a palindrome.
+
+AAAAAAAAAABAAAAAAAA -- is not a palindrome.
+
+AAAAAAAAABAAAAAAAAA -- is a regular palindrome.
+
+AAAAAAAAAEAAAAAAAAA -- is a regular palindrome.
+
+AAAAAAAAA2AAAAAAAAA -- is a regular palindrome.
+
+AAAAAAAAAOAAAAAAAAA -- is a mirrored palindrome.
+
+AAAAAAAAAAAAAAAAAAAB -- is not a palindrome.
+
+BAAAAAAAAAAAAAAAAAAA -- is not a palindrome.
+
+AAAAAAAAAABAAAAAAAAA -- is not a palindrome.
+

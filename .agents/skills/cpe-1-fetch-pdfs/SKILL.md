@@ -25,6 +25,21 @@ where files go) and wait for "ok".
 
 Only do what was asked. If the user said "just download", leave existing files in `pdfs/new/` alone.
 
+## Weekly practice sets
+
+When the batch is one weekly practice (problems fixed in `presentations/practice/practice_picks_<date>.md`),
+**do not read cpelist**:
+
+- Download only the UVa problems whose PDF is not yet in `pdfs/old/` or `pdfs/new/`, straight from
+  `https://onlinejudge.org/external/<id // 100>/<id>.pdf`. Run the shallow and deep checks above.
+- A non-UVa problem has no official PDF. Write the statement **in English only, in our own words** (no Chinese
+  anywhere, not copied from the source), say what differs from the source problem, and end with a source line
+  such as `Adapted from the CSES Problem Set, task 1755.` Build `pdfs/new/<Problem_Name>.pdf` with the previous
+  week's `build_statement.py` (`presentations/practice/practice<MMDD>/<problem>/`). Check: one page, fonts
+  embedded, no CJK characters, sample equals the reference solution's output. Show the statement to the user;
+  it is final only after they agree.
+- Problems already on DMOJ keep their existing PDF and are skipped; list them in the report.
+
 ## Report
 
 - Count on the list vs downloaded vs verified.
